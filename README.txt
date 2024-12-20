@@ -1,7 +1,8 @@
+TODO!
+
 npm install #Install dependencies
 
 rm -rf .next #Clean the Cache
-npm run dev
 
 npm install -D tailwindcss postcss autoprefixer #Tailwind CSS and its dependencies (postcss and autoprefixer) are installed correctly
 npx tailwindcss init -p
