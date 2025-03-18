@@ -1,4 +1,4 @@
-TODO!
+# Art Gallery Project
 
 npm install #Install dependencies
 
